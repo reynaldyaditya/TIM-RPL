@@ -9,3 +9,5 @@ Pengerjaan [S1 - PBI7] Logout
 Pengerjaan [S1 - PBI3] Membuat Register 
 
 Pengerjaan [S1 - PBI4] Profile
+
+Pengerjaan [S1 - PBI5] Membuat Landing Page
